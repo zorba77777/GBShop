@@ -1,0 +1,6 @@
+framework module Pods_t_sasin {
+  umbrella header "Pods-t.sasin-umbrella.h"
+
+  export *
+  module * { export * }
+}
